@@ -1,0 +1,4 @@
+aiohttp
+pandas
+numpy
+python-telegram-bot
